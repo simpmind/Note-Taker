@@ -4,7 +4,7 @@
  ![GitHub License Badge](https://shields.io/badge/license-MIT-green)
 
 
- ## [Deployed App](https://git.heroku.com/notetaker2208.git)
+ ## [Deployed App](https://notetaker2208.herokuapp.com)
 
 ## Description
 A small business owner wanted to be able to write and save notes so that owner can organize his thoughts and keep track of tasks he needed to complete.
